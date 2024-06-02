@@ -5,7 +5,12 @@ Hitsounds and `followpoint*` are from [`Moonshine 2.1`](https://osu.ppy.sh/commu
 
 The sources SVG files are not ready yet, so this repo is basically empty. Check out Releases for download.
 
-Screenshots:
+## Screenshots
+Only the first screenshot is the current version (2024.06.01), which has updated combo colors, cursor and UI.
+
+The old combo colors, cursor and UI (as you can see in the rest screenshots) can be found in `Extras/*-classic`.
+
+![](screenshot/5.png)
 
 ![](screenshot/0.png)
 
