@@ -5,12 +5,29 @@ Hitsounds and `followpoint*` are from [`Moonshine 2.1`](https://osu.ppy.sh/commu
 
 The sources SVG files are not ready yet, so this repo is basically empty. Check out Releases for download.
 
-## Screenshots
-Only the first screenshot is the current version (2024.06.01), which has updated combo colors, cursor and UI.
+## Screenshots (version 2024.07.01)
+Shot with the defaults of this skin and with recommended visual settings: Background dim 92%, Background blur 100%, Combo color normalization 100%.
 
-The old combo colors, cursor and UI (as you can see in the rest screenshots) can be found in `Extras/*-classic`.
+![](screenshot/6.png)
+
+![](screenshot/7.png)
+
+![](screenshot/8.png)
+
+![](screenshot/9.png)
+
+![](screenshot/10.png)
+
+### Previous versions
+
+#### 2024.06.01
+See folder `Extras/UI/new-with-song-info-but-without-rank-display` for this UI config.
 
 ![](screenshot/5.png)
+
+
+#### 2024.04.27
+See every subfolder named `classic` in folder `Extras` for these configs.
 
 ![](screenshot/0.png)
 
