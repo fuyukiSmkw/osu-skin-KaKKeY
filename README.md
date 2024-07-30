@@ -5,7 +5,7 @@ Hitsounds and `followpoint*` are from [`Moonshine 2.1`](https://osu.ppy.sh/commu
 
 The sources SVG files are not ready yet, so this repo is basically empty. Check out Releases for download.
 
-## Screenshots (version 2024.07.01)
+## Screenshots
 Shot with the defaults of this skin and with recommended visual settings: Background dim 92%, Background blur 100%, Combo color normalization 100%.
 
 ![](screenshot/6.png)
@@ -14,9 +14,22 @@ Shot with the defaults of this skin and with recommended visual settings: Backgr
 
 ![](screenshot/8.png)
 
-![](screenshot/9.png)
-
 ![](screenshot/10.png)
+
+### fuyukiS' presets (since version 2024.07.27)
+fuyukiS' currently using settings with vertical playfield borders, removed progress bar and moved in-game leaderboard. You can simply download and use them or make your own combinations with elements in folder `Extras`.
+
+#### NM:
+
+![](screenshot/fuyukiSpreset-2024.07.27-NM-0.png)
+
+#### Other mods:
+
+![](screenshot/fuyukiSpreset-2024.07.27-compilation.png)
+
+Recommended combo color settings:  
+DT/EZ: Beatmap colors off, Combo color normalization 0%;  
+NM/HD/HR: Beatmap colors up to you, Combo color normalization 100%.
 
 ### Previous versions
 
