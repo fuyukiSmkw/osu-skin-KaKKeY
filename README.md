@@ -9,7 +9,7 @@ Shot with 'Gameplay cursor size' 64%, 'Adjust gameplay cursor size based on curr
 background\
 ![](screenshot/2025.04.27-1.png)
 
-default\
+default (no mod)\
 ![](screenshot/2025.04.27-2.png)\
 ![](screenshot/2025.04.27-3.png)
 
@@ -33,14 +33,16 @@ TC\
 ![](screenshot/2025.04.27-9.png)\
 TC2: glowing approach circle\
 TC2s: glowing approach circle, single color\
-TC2d (glowing approach circle, different colors for appr. circle & slider border)\
+TC2d: glowing approach circle, different colors for appr. circle & slider border\
 ![](screenshot/2025.04.27-10.png)
 
 
 ## Build
 Install Inkscape (>=`Inkscape 1.2.2 (b0a8486541, 2022-12-01)`) and run `source/export-all.sh`, and run every `source/**/make*.sh`, and pack corresponding `png` files (for the defaults (no mod), pack in every `**/default/*.png` and `.png` within folders that doesn't contain `default` subfolder) into a `zip` file and change its suffix to `.osk`.
 
-### Previous versions
+------
+
+## Previous versions
 
 Since version 2025.04.27, folder `Extras` are no longer provided. Check `sources/` in this repo for old layout, alternative elements etc.
 
