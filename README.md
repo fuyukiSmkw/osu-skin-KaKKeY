@@ -1,12 +1,50 @@
 # osu-skin-KaKKeY
 KaKKeY is a STD osu!lazer skin originated by fuyukiS' uncompleted rhythm game project KaKKeY.
 
-Hitsounds and `followpoint*` are from [`Moonshine 2.1`](https://osu.ppy.sh/community/forums/topics/1610388?n=1) by [`moonstaar`](https://osu.ppy.sh/users/27339355), default cursor and `cursor-Selyui` in extras are from [`Selyui 1.2`](https://osu.ppy.sh/community/forums/topics/1629078?n=1) by [`alivemaster` aka `sb233asdf`](https://osu.ppy.sh/users/10324621), everything else are drawn by fuyukiS with Inkscape.
-
-The sources SVG files are not ready yet, so this repo is basically empty. Check out Releases for download.
+Hitsounds are from [`Moonshine 2.1`](https://osu.ppy.sh/community/forums/topics/1610388?n=1) by [`moonstaar`](https://osu.ppy.sh/users/27339355) (not within the repository, only in releases). Images are drawn by fuyukiS with Inkscape.
 
 ## Screenshots
-Shot with the defaults of this skin and with recommended visual settings: Background dim 92%, Background blur 100%, Combo color normalization 100%.
+Shot with 'Gameplay cursor size' 64%, 'Adjust gameplay cursor size based on current beatmap' on
+
+background\
+![](screenshot/2025.04.27-1.png)
+
+default\
+![](screenshot/2025.04.27-2.png)\
+![](screenshot/2025.04.27-3.png)
+
+HD\
+![](screenshot/2025.04.27-4.png)
+
+EZ\
+![](screenshot/2025.04.27-5.png)\
+EZ dot\
+![](screenshot/2025.04.27-6.png)
+
+HR\
+![](screenshot/2025.04.27-7.png)
+
+DT: Rafis HDDT
+
+FL\
+![](screenshot/2025.04.27-8.png)
+
+TC\
+![](screenshot/2025.04.27-9.png)\
+TC2: glowing approach circle\
+TC2s: glowing approach circle, single color\
+TC2d (glowing approach circle, different colors for appr. circle & slider border)\
+![](screenshot/2025.04.27-10.png)
+
+
+## Build
+Install Inkscape (>=`Inkscape 1.2.2 (b0a8486541, 2022-12-01)`) and run `source/export-all.sh`, and run every `source/**/make*.sh`, and pack corresponding `png` files (for the defaults (no mod), pack in every `**/default/*.png` and `.png` within folders that doesn't contain `default` subfolder) into a `zip` file and change its suffix to `.osk`.
+
+### Previous versions
+
+Since version 2025.04.27, folder `Extras` are no longer provided. Check `sources/` in this repo for old layout, alternative elements etc.
+
+#### 2024.07.27
 
 ![](screenshot/6.png)
 
@@ -16,22 +54,13 @@ Shot with the defaults of this skin and with recommended visual settings: Backgr
 
 ![](screenshot/10.png)
 
-### fuyukiS' presets (since version 2024.07.27)
-fuyukiS' currently using settings with vertical playfield borders, removed progress bar and moved in-game leaderboard. You can simply download and use them or make your own combinations with elements in folder `Extras`.
-
-#### NM:
+#### fuyukiS' presets NM:
 
 ![](screenshot/fuyukiSpreset-2024.07.27-NM-0.png)
 
 #### Other mods:
 
 ![](screenshot/fuyukiSpreset-2024.07.27-compilation.png)
-
-Recommended combo color settings:  
-DT/EZ: Beatmap colors off, Combo color normalization 0%;  
-NM/HD/HR: Beatmap colors up to you, Combo color normalization 100%.
-
-### Previous versions
 
 #### 2024.06.01
 See folder `Extras/UI/new-with-song-info-but-without-rank-display` for this UI config.

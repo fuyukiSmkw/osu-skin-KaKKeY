@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="80"
+   height="80"
+   viewBox="0 0 80 80"
+   sodipodi:docname="cursortrail.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="cursortrail.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter322"
+       x="-0.6"
+       y="-0.6"
+       width="2.2"
+       height="2.2">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(252,252,15)"
+         result="flood"
+         id="feFlood312" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite314" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="7"
+         result="blur"
+         id="feGaussianBlur316" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset318" />
+      <feComposite
+         in="offset"
+         in2="offset"
+         operator="atop"
+         result="composite2"
+         id="feComposite320" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter964"
+       x="-0.3"
+       y="-0.3"
+       width="1.6"
+       height="1.6">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood954" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite956" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2.5"
+         result="blur"
+         id="feGaussianBlur958" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset960" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite962" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1617"
+       x="-0.4"
+       y="-0.4"
+       width="1.8"
+       height="1.8">
+      <feFlood
+         flood-opacity="0.8"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood1607" />
+      <feComposite
+         in="SourceGraphic"
+         in2="flood"
+         operator="in"
+         result="composite1"
+         id="feComposite1609" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur1611" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset1613" />
+      <feComposite
+         in="offset"
+         in2="offset"
+         operator="atop"
+         result="composite2"
+         id="feComposite1615" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="5.9"
+     inkscape:cx="37.033898"
+     inkscape:cy="35.59322"
+     inkscape:window-width="2560"
+     inkscape:window-height="1572"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <circle
+       style="display:inline;fill:#fcfc0f;fill-opacity:0.60000002;fill-rule:evenodd;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.9;filter:url(#filter322)"
+       id="path291"
+       cx="40"
+       cy="40"
+       r="14"
+       inkscape:label="shadow" />
+    <circle
+       style="fill:#fcfc0f;fill-opacity:1;fill-rule:evenodd;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.9;filter:url(#filter1617)"
+       id="path291-3"
+       cx="40"
+       cy="40"
+       inkscape:label="up"
+       r="12" />
+  </g>
+</svg>

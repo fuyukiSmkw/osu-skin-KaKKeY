@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="42"
+   height="53"
+   viewBox="0 0 42 53"
+   sodipodi:docname="default-4.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="ingamescore-4.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <rect
+       x="-115.20763"
+       y="-32.788136"
+       width="96.567797"
+       height="83.09322"
+       id="rect239" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter695"
+       x="-0.19523203"
+       y="-0.14456115"
+       width="1.3904641"
+       height="1.2891223">
+      <feFlood
+         flood-opacity="0.8"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood685" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite687" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur689" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset691" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite693" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="3.1486264"
+     inkscape:cx="-67.330948"
+     inkscape:cy="58.596981"
+     inkscape:window-width="2560"
+     inkscape:window-height="1567"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <path
+       d="m 31.69333,30.793331 c 0.675555,0 1.208888,0.195556 1.599998,0.586667 0.426668,0.355554 0.640001,0.835554 0.640001,1.439999 0,0.639999 -0.213333,1.155555 -0.640001,1.546666 -0.391111,0.355554 -0.924443,0.533333 -1.599998,0.533333 -1.866691,9.5e-5 -3.733384,-3.3e-5 -5.600075,-3.54e-4 0,0 0.05341,1.884797 0.05341,2.880352 v 4.159996 c 0,0.604445 -0.195556,1.102222 -0.586667,1.493333 -0.355555,0.355556 -0.853333,0.533333 -1.493332,0.533333 -0.675555,0 -1.208888,-0.177778 -1.599999,-0.533333 -0.355554,-0.391111 -0.533333,-0.888888 -0.533333,-1.493333 v -4.159996 c 0,-0.995556 0.106921,-2.880352 0.106921,-2.880352 -3.922141,6.44e-4 -7.852003,3.54e-4 -11.786913,3.54e-4 -0.6755535,0 -1.2088875,-0.177779 -1.6000005,-0.533333 -0.391113,-0.391111 -0.58667,-0.906667 -0.58667,-1.546666 0,-0.284446 0.05333,-0.568889 0.16,-0.853333 0.106667,-0.284444 0.24889,-0.586666 0.42667,-0.906666 L 21.400002,10.313344 c 0.533333,-0.8533338 1.226666,-1.2800005 2.079999,-1.2800005 0.675555,0 1.173332,0.2133333 1.493332,0.64 0.355555,0.3911105 0.533333,0.8711105 0.533333,1.4399995 0,0.497777 -0.106667,0.906666 -0.32,1.226666 L 13.506672,30.846665 h 4.64 c 1.368957,0.02138 2.526816,0.04497 3.893329,-2.2e-5 v -3.999976 c 0,-0.639999 0.177778,-1.137777 0.533334,-1.493332 0.355555,-0.391111 0.853333,-0.586667 1.493332,-0.586667 0.639999,0 1.137777,0.195556 1.493332,0.586667 0.355555,0.355555 0.533333,0.853333 0.533333,1.493332 v 3.999976 c 0,0 3.461335,-0.05331 5.599997,-0.05331 z"
+       id="path955"
+       style="font-size:53.3333px;line-height:25.3333px;font-family:'Torus Pro';-inkscape-font-specification:'Torus Pro';text-orientation:upright;white-space:pre;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-linejoin:round;stroke-width:0.5;stroke-dasharray:none;filter:url(#filter695)"
+       sodipodi:nodetypes="ccscccsssscsscccssccscsccccscscsccc" />
+  </g>
+</svg>

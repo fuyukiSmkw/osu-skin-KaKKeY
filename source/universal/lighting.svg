@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="184"
+   height="184"
+   viewBox="0 0 184 184"
+   sodipodi:docname="lighting.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="lighting@2x.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1520"
+       x="-0.9375"
+       y="-0.9375"
+       width="2.875"
+       height="2.875">
+      <feFlood
+         flood-opacity="0.40205223880597013"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1510" />
+      <feComposite
+         in="SourceGraphic"
+         in2="flood"
+         operator="in"
+         result="composite1"
+         id="feComposite1512" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="25"
+         result="blur"
+         id="feGaussianBlur1514" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset1516" />
+      <feComposite
+         in="offset"
+         in2="offset"
+         operator="atop"
+         result="composite2"
+         id="feComposite1518" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#2f2f2f"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="2.5652174"
+     inkscape:cx="96.09322"
+     inkscape:cy="107.59322"
+     inkscape:window-width="2560"
+     inkscape:window-height="1572"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <circle
+       style="fill:#777777;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter1520)"
+       id="path291"
+       cx="92"
+       cy="92"
+       r="32" />
+  </g>
+</svg>

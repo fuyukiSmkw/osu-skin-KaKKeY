@@ -1,0 +1,5 @@
+default: 96, torus shadow
+HD: 104, torus-bold shadow
+HR: 96, torus-bold
+EZ: 120, torus-bold shadow
+combo: 72, torus shadow

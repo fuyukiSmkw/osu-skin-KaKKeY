@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="37"
+   height="53"
+   viewBox="0 0 37 53"
+   sodipodi:docname="default-1.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="ingamescore-1@2x.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <rect
+       x="-100.16102"
+       y="-17.067797"
+       width="103.75424"
+       height="102.40678"
+       id="rect239" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter696"
+       x="-0.38793127"
+       y="-0.13803689"
+       width="1.7758625"
+       height="1.2760738">
+      <feFlood
+         flood-opacity="0.8"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood686" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite688" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.5"
+         result="blur"
+         id="feGaussianBlur690" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset692" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite694" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="4.4528302"
+     inkscape:cx="-30.654661"
+     inkscape:cy="26.5"
+     inkscape:window-width="2560"
+     inkscape:window-height="1572"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <text
+       xml:space="preserve"
+       id="text237"
+       style="font-size:53.3333px;line-height:25.3333px;font-family:'Torus Pro';-inkscape-font-specification:'Torus Pro Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-orientation:upright;white-space:pre;shape-inside:url(#rect239);display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-linejoin:round;stroke-width:0.5;stroke-dasharray:none;filter:url(#filter696)"
+       transform="translate(107.4335,32.425883)"><tspan
+         x="-100.16016"
+         y="11.460773"
+         id="tspan863">1</tspan></text>
+  </g>
+</svg>

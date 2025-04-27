@@ -1,0 +1,28 @@
+{
+  "Version": 1,
+  "DrawableInfo": {
+    "osu": [
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2025.118.3.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 18,
+        "Origin": 18,
+        "UsesFixedAnchor": true,
+        "Settings": {
+          "sprite_name": "lazer-playfield-border.png"
+        },
+        "Children": []
+      }
+    ]
+  }
+}
